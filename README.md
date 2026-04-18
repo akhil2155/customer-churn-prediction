@@ -1,8 +1,8 @@
-# 📊 Customer Churn Prediction Dashboard
+# Customer Churn Prediction Dashboard
 
 An end-to-end Machine Learning project that predicts whether a telecom customer is likely to churn.
 
-## 🚀 Features
+##  Features
 
 * Customer churn prediction using Random Forest
 * Churn probability score
@@ -11,7 +11,7 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 * SHAP feature importance explainability
 * Business-focused analytics
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
@@ -21,12 +21,12 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 * SHAP
 * Joblib
 
-## 📈 Model Performance
+##  Model Performance
 
 * Accuracy: **79.8%**
 * ROC-AUC: **0.836**
 
-## 📂 Project Structure
+##  Project Structure
 
 customer-churn-project/
 │── app/
@@ -35,11 +35,11 @@ customer-churn-project/
 │── src/
 │── requirements.txt
 
-## ▶️ Run Locally
+##  Run Locally
 
 pip install -r requirements.txt
 python -m streamlit run app/streamlit_app.py
 
-## 👨‍💻 Author
+##  Author
 
 Akhil
